@@ -1,4 +1,4 @@
-# Release Notes
+# Release Notes.
 
 ## [Unreleased](https://github.com/laravel/laravel/compare/v9.1.6...9.x)
 
